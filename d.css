@@ -1,0 +1,9 @@
+
+h1{color:aquamarine}
+h2{background-color: blueviolet;}
+
+img{border:solid;
+border-color:darkolivegreen}
+.footer{display:flex;
+    justify-content: space-around;
+}
